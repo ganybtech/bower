@@ -1,0 +1,26 @@
+{
+  "name": "testbower",
+  "authors": [
+    "weber <welcome>"
+  ],
+  "main": "js/test.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/plnreddi/testbower",
+  "_release": "c2a8d943d3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c2a8d943d3dbb2da70cf2059bb43cac549fa0189"
+  },
+  "_source": "git://github.com/plnreddi/testbower.git",
+  "_target": "*",
+  "_originalSource": "testbower",
+  "_direct": true
+}

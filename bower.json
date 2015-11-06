@@ -1,11 +1,8 @@
 {
   "name": "TestingBowerComponent",
   "version": "0.0.1",
-  "main":[
-  "app.css",
-"app.min.css",
-"logo.png"
-  ],
+  "main":"app.css",
+
   "ignore": [
         "bower.json"
     ],
