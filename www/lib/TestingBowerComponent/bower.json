@@ -1,8 +1,7 @@
 {
-  "name": "TestingBower",
+  "name": "TestingBowerComponent",
   "version": "0.0.2",
-   "main":["www/js/controllers.js",
-   "www/js/app.js],
+   "main":"www/js/controllers.js",
   "ignore": [
         "build",
         "hooks",

@@ -1,0 +1,38 @@
+{
+  "name": "TestingBowerComponent",
+  "main": "www/js/controllers.js",
+  "ignore": [
+    "build",
+    "hooks",
+    ".bowerrc",
+    ".gitignore",
+    ".editorconfig",
+    "config.xml",
+    "bower.json",
+    "gulpfile.js",
+    "package.json",
+    "ionic.project",
+    "node_modules",
+    "plugins",
+    "scss"
+  ],
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "animate.css": "~3.2.5",
+    "jquery": "~2.1.3"
+  },
+  "homepage": "https://github.com/ganybtech/TestingBowerComponent",
+  "_release": "a0c6eda6a0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a0c6eda6a0e0d4a6ec7c4080cb09a47b4f1f7aa4"
+  },
+  "_source": "git://github.com/ganybtech/TestingBowerComponent.git",
+  "_target": "*",
+  "_originalSource": "TestingBowerComponent",
+  "_direct": true
+}
