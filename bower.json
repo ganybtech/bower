@@ -1,29 +1,18 @@
 {
   "name": "TestingBowerComponent",
   "version": "0.0.1",
-  "private": "false",
+  "main":[
+  "app.css",
+"app.min.css",
+"logo.png"
+  ]
   "ignore": [
-        "build",
-        "hooks",
-        ".bowerrc",
-        ".gitignore",
-        ".editorconfig",
-        "config.xml",
-        "bower.json",
-        "gulpfile.js",
-        "package.json",
-        "ionic.project",
-		"node_modules",
-		"plugins",
-		"scss"
+        "bower.json"
     ],
   "devDependencies": {
-    "ionic": "driftyco/ionic-bower#1.1.0"
+    
   },
   "dependencies": {
-    "bootstrap": "~3.3.5",
-    "animate.css": "~3.2.5",
-	  "jquery": "~2.1.3",
-	  "mycontroller":"www/js/controllers.js"
+    
   }
 }
