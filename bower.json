@@ -5,7 +5,7 @@
   "app.css",
 "app.min.css",
 "logo.png"
-  ]
+  ],
   "ignore": [
         "bower.json"
     ],
